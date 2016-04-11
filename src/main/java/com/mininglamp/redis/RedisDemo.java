@@ -1,4 +1,4 @@
-package com.mininglamp.emay.redis;
+package com.mininglamp.redis;
 
 import redis.clients.jedis.Jedis;
 
